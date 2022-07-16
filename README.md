@@ -5,7 +5,7 @@
 **Introduction**
 
 GreenBIQA is a novel BIQA model, which aims at high performance, low computational complexity and a small model size. GreenBIQA adopts an unsupervised feature generation method and a supervised feature selection method to extract quality-aware features. Then, it trains an XGBoost regressor to predict quality scores of test images.
-![image]（https://github.com/zhanxuanm/GreenBIQA/blob/main/GreenIQA-pipeline-v2.png）
+![image](https://github.com/zhanxuanm/GreenBIQA/blob/main/GreenIQA-pipeline-v2.png)
 
 **Description**
 
@@ -25,6 +25,8 @@ by running:
     pip install -r requirements.txt
 
 **Data**
+
+- Download the [CSIQ](https://qualinet.github.io/databases/image/categorical_image_quality_csiq_database/), [LIVE-C](https://live.ece.utexas.edu/research/ChallengeDB/index.html), [KADID-10K](http://database.mmsp-kn.de/kadid-10k-database.html) and [KonIQ-10K](http://database.mmsp-kn.de/koniq-10k-database.html) dataset.
 
 - Put all the images under ``data``.
 
