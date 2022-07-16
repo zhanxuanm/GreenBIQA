@@ -33,7 +33,7 @@ def Load_from_Folder(folder, color='RGB', ct=1, yuv=False, size=None):
 
             X = np.zeros((h, w, 3))
 
-            X[:, :, 0] = np.array(data_Y).reshape(h, w).astype('float32') - 127
+            X[:, :, 0] = np.array(data_Y).reshape(h, w).astype('float32')
             shrunk_u = np.array(data_U).reshape(h//2, w//2).astype('float32')
             shrunk_v = np.array(data_V).reshape(h//2, w//2).astype('float32')
             X[:, :, 1] = cv2.resize(shrunk_u, (w, h), interpolation=cv2.INTER_LINEAR) - 127
