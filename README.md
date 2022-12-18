@@ -17,11 +17,13 @@ Official python implementation for [GreenBIQA](https://arxiv.org/abs/2206.14400)
 If you found the source codes useful, please consider cite our paper:
 
 ```
-@article{mei2022greenbiqa,
+@inproceedings{mei2022greenbiqa,
   title={GreenBIQA: A Lightweight Blind Image Quality Assessment Method},
   author={Mei, Zhanxuan and Wang, Yun-Cheng and He, Xingze and Kuo, C-C Jay},
-  journal={arXiv preprint arXiv:2206.14400},
-  year={2022}
+  booktitle={2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP)},
+  pages={1--6},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
