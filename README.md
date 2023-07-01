@@ -1,6 +1,6 @@
 # GreenBIQA
 
-## Collaborative project between Meta RP Media <> USC MCL on Light-weight BIQA
+## Collaborative project between Meta RP Media <> USC MCL on Lightweight BIQA
 
 **Introduction**
 
@@ -14,7 +14,7 @@ Official python implementation for [GreenBIQA]([https://arxiv.org/abs/2206.14400
 
 - Mei, Z., Wang, Y. C., He, X., & Kuo, C. C. J. (2022, September). Greenbiqa: A lightweight blind image quality assessment method. In 2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP) (pp. 1-6). IEEE.
 
-If you found the source codes useful, please consider cite our paper:
+If you found the source codes useful, please consider citing our paper:
 
 ```
 @inproceedings{mei2022greenbiqa,
