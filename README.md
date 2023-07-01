@@ -10,9 +10,9 @@ GreenBIQA is a novel BIQA model, which aims at high performance, low computation
 
 **Description**
 
-Official python implementation for [GreenBIQA](https://arxiv.org/abs/2206.14400).
+Official python implementation for [GreenBIQA]([https://arxiv.org/abs/2206.14400](https://ieeexplore.ieee.org/abstract/document/9948927?casa_token=5P6D4gqVUfEAAAAA:J5J3QE3w61RurD9HBzPlwJlc_g9dmshZKcIj-gecQWH_E27R0459whsxtMOwcuQ5G-jAKnQg)).
 
-- Mei, Z., Wang, Y. C., He, X., & Kuo, C. C. J. (2022). GreenBIQA: A Lightweight Blind Image Quality Assessment Method. arXiv preprint arXiv:2206.14400.
+- Mei, Z., Wang, Y. C., He, X., & Kuo, C. C. J. (2022, September). Greenbiqa: A lightweight blind image quality assessment method. In 2022 IEEE 24th International Workshop on Multimedia Signal Processing (MMSP) (pp. 1-6). IEEE.
 
 If you found the source codes useful, please consider cite our paper:
 
